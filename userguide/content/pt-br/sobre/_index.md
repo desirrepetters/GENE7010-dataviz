@@ -7,17 +7,17 @@ menu:
 layout: docs
 ---
 
-{{% blocks/cover title="Como o curso de Sequências de DNA na Identificação de Espécies e Análise Filogenética pode te ajudar?" height="auto" color="black" %}}
+{{% blocks/cover title="Como a disciplina de Visualização de Dados para Publicações Científicas pode te ajudar?" height="auto" color="black" %}}
 
 {{% /blocks/cover %}}
 
 {{% blocks/section type="section" color="primary" %}}
 
-Independentemente do contexto, a qualidade da comunicação científica e de troca de informações é extremamente dependente da existência de um sistema robusto de nomenclatura e identificação de espécies. Seja para entender melhor a biodiversidade existente, ou para lidar com desafios gerados por patógenos de plantas, animais ou humanos, identificar uma espécie corretamente garante que a comunidade científica possa trocar conhecimento com maior confiabilidade e solucionar problemas com mais facilidade. 
+Independentemente do contexto e da área de pesquisa, a qualidade da comunicação científica é extremamente dependente da elaboração de figuras e gráficos adequados. Boas figuras reforçam bons argumentos, e podem fazer a diferença entre um artigo que é aceito ou não, ou um artigo que se torna muito citado e influente em uma área e um artigo que é esquecido totalmente.
 
-Nesse sentido, o uso de sequências de DNA e análises filogenéticas permite que nossa compreensão da biodiversidade e a capacidade de descobrir novas espécies cresçam continuamente e exponencialmente, gerando ganhos em diversas áreas. Entretanto, estas ferramentas também trazem diversos desafios: sem o preparo e conhecimento adequado, possíveis erros de identificação podem acontecer e gerar sérios problemas e prejuízos. 
+Apesar da importância da elaboração de figuras e de conhecimentos em visualização de dados, há uma escassez de recursos para ensino e desenvolvimento de habilidades nesta área. São poucas as disciplinas, a literatura não é tão abundante e os tutoriais existentes normalmente são mais focados em como atingir certos efeitos visuais (por exemplo, trocar cores e fontes e o tamanho dos elementos dos gráficos) ao invés de focar nos motivos pelos quais certos tipos de gráficos são melhores que outros em determinadas situações.
 
-Nossa proposta com o curso "Sequências de DNA na Identificação de Espécies e Análise Filogenética" é proporcionar o treinamento adequado com as melhores práticas em todas as etapas do processo, desde a obtenção das sequências até à precisa identificação da espécie. Com um conteúdo detalhado e tutoriais para todas as etapas, nosso objetivo é explorar estes temas de forma descomplicada e fornecer à você autonomia para empregar sequências de DNA e análises filogenéticas em seus projetos!
+Nesse sentido, nossa proposta com a disciplina "Visualização de Dados para Publicações Científicas" é proporcionar um treinamento adequado com as melhores práticas em todas as etapas deste processo. Esta disciplina visa fornecer aos alunos uma perspectiva geral sobre os fundamentos de visualização de dados, sobre as principais ferramentas e estratégias disponíveis, para que os discentes desenvolvam habilidades para produção e interpretação de diferentes tipos de gráficos e figuras, com ênfase na elaboração de figuras para publicações científicas. Ao longo da disciplina a principal ferramenta a ser utilizada para exemplificar as diferentes modalidades de figuras e gráficos será o software R, mas noções e conhecimentos prévios em R não são obrigatórios. Com um conteúdo detalhado e tutoriais para todas as etapas, nosso objetivo é explorar estes temas de forma descomplicada e fornecer à você autonomia para utilizar diferentes técnicas de visualização de dados e elaborar figuras de alta qualidade em seus projetos e publicações científicas!
 
 {{% /blocks/section %}}
 
@@ -25,16 +25,12 @@ Nossa proposta com o curso "Sequências de DNA na Identificação de Espécies e
 
 <h2>Como o curso está estruturado?</h2> 
 <p><p>
-O curso conta com aulas teóricas e práticas, as quais serão realizadas por vídeoconferência na plataforma online Microsoft Teams, e posteriormente poderão ser reassistidas por meio de gravação. Os resumos do conteúdo teórico e tutoriais das atividades práticas serão disponibilizados em um site exclusivo para o participantes, e também por meio de uma apostila.
+O curso conta com aulas teóricas e práticas, as quais serão realizadas por presencialmente no departamento de Genética (UFPR) e gravadas pela  plataforma online Microsoft Teams, e podendo ser reassistidas posteriormente por meio de gravação. Os resumos do conteúdo teórico e tutoriais das atividades práticas serão disponibilizados em um site exclusivo para os alunos, e também por meio de uma apostila.
 <p><p>
 
 <h2>Quais são as datas?</h2>
 <p><p>
-Para a turma 01, as aulas ocorreram entre os dias 19 de Outubro de 2020 e 18 de Novembro de 2020, nas segundas pela manhã (09:00 até 13:00) e quintas à tarde (13:30 até 17:30). Além dos horários de aula, eventuais dúvidas sobre os conteúdos também foram resolvidas via e-mail.
-<p>
-Para a turma 02,as aulas ocorreram entre os dias 30 de Novembro de 2020 e 18 de Dezembro de 2020. nas segundas e quartas à tarde (13:30 até 17:30) e sextas pela manhã (08:30-12:30). Além dos horários de aula, eventuais dúvidas sobre os conteúdos também foram resolvidas via e-mail.
-<p>
-A previsão de abertura da turma 03 é no segundo semestre de 2021. Para ser informado sobre as datas e mais detalhes futuramente, clique <a href="https://forms.gle/ddmNQn6eBntGuUYg9">aqui</a> para se cadastrar na nossa lista de espera.
+Para a turma do segundo semestre de 2022. as aulas ocorrerão entre os dias 06 de Outubro e 15 de Dezembro de 2022, nas quintas à tarde (14:00 até 17:00). Além dos horários de aula, eventuais dúvidas sobre os conteúdos também poderão ser resolvidas via e-mail.
 <p><p>
 
 <h2>Quais conteúdos serão abordados?</h2>
@@ -43,43 +39,24 @@ A previsão de abertura da turma 03 é no segundo semestre de 2021. Para ser inf
 
 <table>
   <tr>
-   <td><strong>Tópicos Teóricos</strong>
+   <td><strong>Tópicos Teóricos e Práticos</strong>
    </td>
    <td>
    <ul>
-<li style="text-align: left">Introdução ao curso</li>
-<li style="text-align: left">Conteúdos básicos em taxonomia, sistemática e filogenia molecular</li>
-<li style="text-align: left">Critérios para identificação de espécies em diferentes organismos – seleção de genes apropriados e problemas frequentemente encontrados</li>
-<li style="text-align: left">Identificação de espécies em microrganismos – problemas e soluções.</li>
-<li style="text-align: left">Obtenção, alinhamento e análise de seqüências; Bancos de dados.</li>
-<li style="text-align: left">Métodos de reconstrução filogenética e modelos evolutivos.</li>
-<li style="text-align: left">Princípios para escolha de sequências para compor a árvore filogenética. Como usar os Bancos de dados. </li>
-<li style="text-align: left">Construção e interpretação de árvores filogenéticas. </li>
-</ul>
-   </td>
-  </tr>
-  <tr>
-   <td><strong>Tópicos Práticos</strong>
-   </td>
-   <td>
-   <ul>
-<li style="text-align: left">Obtenção de sequências consenso, análise de cromatogramas</li>
-<li style="text-align: left">Busca de sequências em bancos de dados, alinhamento e edição de alinhamentos</li>
-<li style="text-align: left">Testes de modelo evolutivo</li>
-<li style="text-align: left">Construção de árvores filogenéticas em diferentes softwares</li>
-<li style="text-align: left">Alinhamento multigênico</li>
-<li style="text-align: left">Construção e interpretação de árvores filogenéticas</li>
-<li style="text-align: left">Edição e preparação das árvores filogenéticas para publicações científicas</li>
-</ul>
-   </td>
-  </tr>
-  <tr>
-   <td><strong>CONTEÚDO EXTRA!</strong>
-   </td>
-   <td>
-   <ul>
-<li style="text-align: left">Depósito de sequências no GenBank</li>
-<li style="text-align: left">Depósito de alinhamentos no TreeBase</li>
+<li style="text-align: left">Princípios gerais de visualização de dados e uso de softwares.</li>
+<li style="text-align: left">Boas práticas em visualização de dados e princípios de reprodutibilidade.</li>
+<li style="text-align: left">Tipos de dados, variáveis e elementos estéticos, escalas, sistemas de coordenadas e eixos.</li>
+<li style="text-align: left">Uso de cores como ferramentas para visualização e representação de dados: distinção de categorias, representação de variáveis e/ou elementos de realce</li>
+<li style="text-align: left">Visualizando quantidades: gráficos de barras e colunas, diagramas de pontos e mapas de calor.</li>
+<li style="text-align: left">Visualizando distribuições: histogramas, gráficos de densidade, gráficos Q-Q, gráfico de função de distribuição acumulada empírica.</li>
+<li style="text-align: left">Visualizando múltiplas distribuições:  diagrama de caixa (box-plot), gráfico de violino, gráfico ridgeline.</li>
+<li style="text-align: left">Visualizando proporções: gráfico de pizza/donut, gráfico de barras/colunas empilhadas, gráfico de densidade.</li>
+<li style="text-align: left">Visualizando proporções aninhadas: gráfico de mosaico, mapa de árvore convencional e circular, explosão solar.</li>
+<li style="text-align: left">Visualizando associação entre duas ou mais variáveis: gráfico de dispersão, gráfico de inclinação, análise de componentes principais.</li>
+<li style="text-align: left">Visualizando conexões, sobreposições, ligações e fluxos: diagrama de Venn, UpSet plot, diagrama Sankey, diagrama de corda (Circos plot).</li>
+<li style="text-align: left">Visualizando séries temporais e tendências.</li>
+<li style="text-align: left">Visualizando mapas e dados geospaciais: projeções, camadas, coordenadas, mapas coropléticos.</li>
+<li style="text-align: left">Erros frequentes em visualização de dados e estratégias de resolução de problemas.</li>
 </ul>
    </td>
   </tr>
@@ -139,7 +116,7 @@ A previsão de abertura da turma 03 é no segundo semestre de 2021. Para ser inf
 
 <p><p>
 
-<b>Desirrê Petters-Vandresen</b> é aluna de doutorado do Programa de Pós-Graduação em <a href="https://www.bio.ufpr.br/portal/ppggenetica/">Genética</a>.
+<b>Desirrê Petters-Vandresen</b> é pesquisadora de pós-doutorado do Programa de Pós-Graduação em <a href="https://www.bio.ufpr.br/portal/ppggenetica/">Genética</a>.
 <p><p>
 <p style="text-align: left">Atua principalmente nos seguintes tópicos:</p>
 
@@ -153,7 +130,7 @@ A previsão de abertura da turma 03 é no segundo semestre de 2021. Para ser inf
 <ul>
 <li>Graduação em Ciências Biológicas (Bacharelado) - Universidade Federal do Paraná (UFPR) (2015);</li>
 <li>Mestrado em Genética - Universidade Federal do Paraná (UFPR) (2018);</li>
-<li>Doutorado em Genética em andamento na Universidade Federal do Paraná (UFPR), com período sanduíche no Max Planck Institute for Evolutionary Biology em Plön, na Alemanha (previsão de titulação: 2022)</li>
+<li>Doutorado em Genética - Universidade Federal do Paraná (UFPR), com período sanduíche no Max Planck Institute for Evolutionary Biology em Plön, na Alemanha (2022)</li>
 </ul>
 </td>
 <td rowspan="3"> <img class="alignnone size-full wp-image-604" src="/sobre/desirre.jpg" alt="Foto de Perfil de Desirrê Petters-Vandresen" width="310"/></td>
@@ -166,7 +143,7 @@ A previsão de abertura da turma 03 é no segundo semestre de 2021. Para ser inf
 
 ## Acompanhe nosso trabalho junto ao Laboratório BioGeMM!
 <p><p>
-O curso de Sequências de DNA na Identificação de Espécies e Análise Filogenética é promovido e ofertado pelo Programa de Pós-Graduação em Genética e pelo Laboratório de Bioprospecção e Genética Molecular de Microrganismos, localizado no Departamento de Genética da Universidade Federal do Paraná (UFPR, Curitiba, Brasil).
+A disciplina de Visualização de Dados para Publicações Científicas é promovida e ofertada pelo Programa de Pós-Graduação em Genética e pelo Laboratório de Bioprospecção e Genética Molecular de Microrganismos, localizado no Departamento de Genética da Universidade Federal do Paraná (UFPR, Curitiba, Brasil).
 
 Você pode visitar o site do [Laboratório BioGeMM](https://www.bio.ufpr.br/portal/biogemm/) para conhecer melhor a nossa [equipe](https://www.bio.ufpr.br/portal/biogemm/o-laboratorio/equipe/), [linhas de pesquisa](https://www.bio.ufpr.br/portal/biogemm/o-laboratorio/linhas-de-pesquisa/), [produção acadêmica](https://www.bio.ufpr.br/portal/biogemm/o-laboratorio/publicacoes/), e também saber das últimas novidades e publicações mais recentes!
 
