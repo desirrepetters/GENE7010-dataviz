@@ -1,6 +1,6 @@
 ---
-title: Sobre o curso
-linkTitle: Sobre o curso
+title: Sobre a disciplina
+linkTitle: Sobre a disciplina
 menu:
   main:
     weight: 10
