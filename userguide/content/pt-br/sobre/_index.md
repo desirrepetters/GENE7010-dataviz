@@ -23,14 +23,14 @@ Nesse sentido, nossa proposta com a disciplina "Visualização de Dados para Pub
 
 {{% blocks/section type="section" color="white" %}}
 
-<h2>Como o curso está estruturado?</h2> 
+<h2>Como a disciplina está estruturada?</h2> 
 <p><p>
 O curso conta com aulas teóricas e práticas, as quais serão realizadas por presencialmente no departamento de Genética (UFPR) e gravadas pela  plataforma online Microsoft Teams, e podendo ser reassistidas posteriormente por meio de gravação. Os resumos do conteúdo teórico e tutoriais das atividades práticas serão disponibilizados em um site exclusivo para os alunos, e também por meio de uma apostila.
 <p><p>
 
 <h2>Quais são as datas?</h2>
 <p><p>
-Para a turma do segundo semestre de 2022. as aulas ocorrerão entre os dias 06 de Outubro e 15 de Dezembro de 2022, nas quintas à tarde (14:00 até 17:00). Além dos horários de aula, eventuais dúvidas sobre os conteúdos também poderão ser resolvidas via e-mail.
+Para a turma do segundo semestre de 2022 as aulas ocorrerão entre os dias 06 de Outubro e 15 de Dezembro de 2022, nas quintas à tarde (14:00 até 17:00). Além dos horários de aula, eventuais dúvidas sobre os conteúdos também poderão ser resolvidas via e-mail.
 <p><p>
 
 <h2>Quais conteúdos serão abordados?</h2>
