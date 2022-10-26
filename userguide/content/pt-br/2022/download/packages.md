@@ -85,9 +85,12 @@ install.packages("tidyverse")
 ## Datasets
 
 <div align="justify">
-Ao estudar e aprender novas funções e testar implementação de scripts e geração de gráficos, muitas vezes é interessante realizar testes com conjuntos de dados já conhecidos. Ao utilizar conjuntos de dados que já estão caracterizados e cujo comportamento já é conhecido, torna-se mais fácil resolver problemas e também implementar melhoria nos códigos, e entender como elaborar diferentes tipos de gráficos. Por padrão, alguns pacotes do R ou do tidyverse possuem alguns conjuntos de dados que podem ser utilizados (por exemplo, os conjuntos "Iris", "cars", "mtcars", "ToothGrowth" do pacote "datasets" ou os conjuntos "diamonds" e "mpg" do ggplot2). Além destes conjuntos, existem outros que podem ser instalados à parte e são bastante úteis, como <a href="https://allisonhorst.github.io/palmerpenguins/">palmerpenguins </a> (diferentes medidas corporais de pinguins de três ilhas do arquipélago de Palmer, na Antártica) e <a href="https://www.rdocumentation.org/packages/mlbench/versions/2.1-3">mlbench</a> (vários conjuntos de dados utilizados para padronização de métodos de aprendizado de máquina).
+Ao estudar e aprender novas funções e testar implementação de scripts e geração de gráficos, muitas vezes é interessante realizar testes com conjuntos de dados já conhecidos. Ao utilizar conjuntos de dados que já estão caracterizados e cujo comportamento já é conhecido, torna-se mais fácil resolver problemas e também implementar melhoria nos códigos, e entender como elaborar diferentes tipos de gráficos.
+<br><br> 
+Por padrão, alguns pacotes do R ou do tidyverse possuem alguns conjuntos de dados que podem ser utilizados (por exemplo, os conjuntos "Iris", "cars", "mtcars", "ToothGrowth" do pacote "datasets" ou os conjuntos "diamonds" e "mpg" do ggplot2). Além destes conjuntos, existem outros que podem ser instalados à parte e são bastante úteis, como <a href="https://allisonhorst.github.io/palmerpenguins/">palmerpenguins </a> (diferentes medidas corporais de pinguins de três ilhas do arquipélago de Palmer, na Antártica) e <a href="https://www.rdocumentation.org/packages/mlbench/versions/2.1-3">mlbench</a> (vários conjuntos de dados utilizados para padronização de métodos de aprendizado de máquina).
 <br><br>
 Para instalar os pacotes palmerpenguins e mlbench utilize o seguinte comando no R:
+<br><br>
 </div>
 
 ```
