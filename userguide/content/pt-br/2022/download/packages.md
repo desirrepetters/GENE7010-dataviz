@@ -61,7 +61,7 @@ Os pacotes incluídos no Tidyverse são:
   </tr>    
 </table> 
 
-
+<div align="justify">
 
 
 <center>
