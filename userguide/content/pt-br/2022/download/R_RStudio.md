@@ -8,7 +8,7 @@ description: >
 <div align="justify">
 O R é tanto uma linguagem de programação quanto um ambiente de computação gráfica e estatística. Dentre suas principais características relevantes, temos o seu caráter gratuito e sua disponibilidade para diversos tipos de sistemas operacionais, com grande capacidade de programação. 
 <br><br>
-Pode ser um pouco desafiador aprender uma linguagem de programação como R, visto que há diversos detalhes e pontos importantes para que os códigos e análises funcionem, Entretanto, apesar da curva de aprendizado inicial, em geral, iniciar o aprendizado a partir de gráficos e visualização de dados tende a ser mais fácil e recompensador do que iniciar com outras análises, visto que no contexto de visualização de dados e elaboração de figuras, os resultados dos esforços e códigos são rapidamente visíveis. 
+Pode ser um pouco desafiador aprender uma linguagem de programação como R, visto que há diversos detalhes e pontos importantes para que os códigos e análises funcionem. Entretanto, apesar da curva de aprendizado inicial, em geral, iniciar o aprendizado a partir de gráficos e visualização de dados tende a ser mais fácil e recompensador do que iniciar com outras análises, visto que no contexto de visualização de dados e elaboração de figuras, os resultados dos esforços e códigos são rapidamente visíveis. 
 <br><br>
 Dessa forma, o objetivo de utilizar o R nesta disciplina é permitir que as atividades se tornem mais interessantes, e que as técnicas aprendidas na disciplina possam ser utilizadas de forma prática, aprimorando o entendimento dos conceitos estudados. 
 </div>
