@@ -40,37 +40,37 @@ Os pacotes incluídos no Tidyverse são:
     <td><center>
 	<img src="https://d33wubrfki0l68.cloudfront.net/476fa4025501dcec05be08248b32d390dd2337d5/574c6/css/images/hex/tidyr.png" alt="Ícone tidyr" align="center" heigth="250">
 	</center></td>
-    <td>tidyr fornece um conjunto de funções para obter dados no formato tidy, ou seja, dados num formato consistente: de forma resumida, cada variável corresponde a uma coluna, e cada linha corresponde a uma observação. Saiba mais sobre o tidyr <a href="https://tidyr.tidyverse.org/">aqui</a>.</td>
+    <td><center>tidyr fornece um conjunto de funções para obter dados no formato tidy, ou seja, dados num formato consistente: de forma resumida, cada variável corresponde a uma coluna, e cada linha corresponde a uma observação. Saiba mais sobre o tidyr <a href="https://tidyr.tidyverse.org/">aqui</a>.</center></td>
   </tr>
   <tr>
     <td><center>
 	<img src="https://d33wubrfki0l68.cloudfront.net/c1c91484f898fe9d7d90a570900f1d5cd703fe2e/d7df4/css/images/hex/readr.png" alt="Ícone readr" align="center" heigth="250">
 	</center></td>
-    <td>readr fornece uma maneira rápida de ler conjuntos de dados e arquivos dispostos de forma "retangular" (como arquivos delimitados por vírgulas e tabulações, csv e tsv, respectivamente). readr está organizado para interpretar e realizar a leitura de vários tipos de arquivos comumente encontrados, e produz mensagens de erro informativas quando há falhas na leitura de arquivos com estruturas diferentes do esperado. Saiba mais sobre o readr <a href="https://readr.tidyverse.org/">aqui</a>.</td>
+    <td><center>readr fornece uma maneira rápida de ler conjuntos de dados e arquivos dispostos de forma "retangular" (como arquivos delimitados por vírgulas e tabulações, csv e tsv, respectivamente). readr está organizado para interpretar e realizar a leitura de vários tipos de arquivos comumente encontrados, e produz mensagens de erro informativas quando há falhas na leitura de arquivos com estruturas diferentes do esperado. Saiba mais sobre o readr <a href="https://readr.tidyverse.org/">aqui</a>.</center></td>
   </tr>
   <tr>
     <td><center>
 	<img src="https://d33wubrfki0l68.cloudfront.net/2d0701b616efa7435cd5a94e703baa595a4f9ed0/d41b9/css/images/hex/purrr.png" alt="Ícone purrr" align="center" heigth="250">
 	</center></td>
-    <td>purrr melhora o toolkit de programação funcional do R, fornecendo diversas ferramentas para trabalhar com funções e vetores, permitindo a substituição de "for loops" por linhas de código mais simples e expressivas. Saiba mais sobre o purrr <a href="https://purrr.tidyverse.org/">aqui</a>.</td>
+    <td><center>purrr melhora o toolkit de programação funcional do R, fornecendo diversas ferramentas para trabalhar com funções e vetores, permitindo a substituição de "for loops" por linhas de código mais simples e expressivas. Saiba mais sobre o purrr <a href="https://purrr.tidyverse.org/">aqui</a>.</center></td>
   </tr>
   <tr>
     <td><center>
 	<img src="https://d33wubrfki0l68.cloudfront.net/c477d7eb7fdf2c3d75637cfe19ff4a4d0a107bcf/017d0/css/images/hex/tibble.png" alt="Ícone tibble" align="center" heigth="250">
 	</center></td>
-    <td>tibble é uma versão "repaginada" da data.frame tradicional, e que forçam você a lidar com problemas já no início do projeto, resultando em um código mais conciso e limpo. Por exemplo, tibbles não alteram nome e tipo de variáveis, não adicionam nomes às linhas e também apontam erros quando variáveis não existem. Saiba mais sobre o tibble <a href="https://tibble.tidyverse.org">aqui</a></td>
+    <td><center>tibble é uma versão "repaginada" da data.frame tradicional, e que forçam você a lidar com problemas já no início do projeto, resultando em um código mais conciso e limpo. Por exemplo, tibbles não alteram nome e tipo de variáveis, não adicionam nomes às linhas e também apontam erros quando variáveis não existem. Saiba mais sobre o tibble <a href="https://tibble.tidyverse.org">aqui</a>.</center></td>
   </tr>
   <tr>
     <td><center>
 	<img src="https://d33wubrfki0l68.cloudfront.net/45fd04ad9cdb2159fea08d07dbc11e742d68e4e3/df327/css/images/hex/stringr.png" alt="Ícone stringr" align="center" heigth="250">
 	</center></td>
-    <td>stringr fornece um conjunto de funções para trabalhar com strings de forma mais simplificada, implementando os procedimentos mais comuns de manipulação de strings. Saiba mais sobre o stringr <a href="https://stringr.tidyverse.org/">aqui</a></td>
+    <td><center>stringr fornece um conjunto de funções para trabalhar com strings de forma mais simplificada, implementando os procedimentos mais comuns de manipulação de strings. Saiba mais sobre o stringr <a href="https://stringr.tidyverse.org/">aqui</a>.</center></td>
   </tr>
   <tr>
     <td><center>
 	<img src="https://d33wubrfki0l68.cloudfront.net/412a6f14518ab633a94221dda7e16cf22e43a763/91620/css/images/hex/forcats.png" alt="Ícone forcats" align="center" heigth="250">
 	</center></td>
-    <td>forcats fornece um conjunto de ferramentas que resolvem problemas comuns ao trabalhar com fatores, que são utilizados pelo R para manipulação de variáveis categóricas e/ou variáveis que possuem um conjunto fixo e conhecido de valores. Saiba mais sobre o forcats <a href="https://forcats.tidyverse.org/">aqui</a></td>
+    <td><center>forcats fornece um conjunto de ferramentas que resolvem problemas comuns ao trabalhar com fatores, que são utilizados pelo R para manipulação de variáveis categóricas e/ou variáveis que possuem um conjunto fixo e conhecido de valores. Saiba mais sobre o forcats <a href="https://forcats.tidyverse.org/">aqui</a>.</center></td>
   </tr>   
 </table> 
 <br><br>
@@ -98,10 +98,6 @@ install.packages("mlbench")
 ```
 
 <div align="justify">
-<center>
-<img src="https://raw.githubusercontent.com/desirrepetters/GENE7010-dataviz/master/userguide/content/pt-br/2022/download/img/R_RStudio/R_RStudio_3.png" alt="Escolha de sistema operacional com destaque para Windows" align="center">
-</center>
-<br><br>
 Na página seguinte, clique em "base":
 <br><br>
 <center>
