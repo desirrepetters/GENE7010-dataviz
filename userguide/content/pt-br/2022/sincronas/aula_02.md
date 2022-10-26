@@ -29,6 +29,7 @@ Clique <a href="https://photos.app.goo.gl/">aqui</a> para fazer o download do v√
 <h2>Slides</h2>
 <br>
 Clique <a href="https://github.com/desirrepetters/GENE7010-dataviz/raw/master/userguide/content/pt-br/2022/sincronas/pdf/aula_02.pdf">aqui</a>!
+<br><br>
 
 <h2>Scripts</h2>
 <br>
