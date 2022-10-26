@@ -36,4 +36,3 @@ Clique <a href="https://github.com/desirrepetters/GENE7010-dataviz/raw/master/us
 Clique <a href="https://github.com/desirrepetters/GENE7010-dataviz/raw/master/userguide/content/pt-br/2022/sincronas/scripts/aula_02.Rmd">aqui</a> para o arquivo Markdown, e <a href="https://github.com/desirrepetters/GENE7010-dataviz/raw/master/userguide/content/pt-br/2022/sincronas/scripts/aula_02.html">aqui</a> para o arquivo de saída HTML (após knit)!
 </div>
 
-</div>
