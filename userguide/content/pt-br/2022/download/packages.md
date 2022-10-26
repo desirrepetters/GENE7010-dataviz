@@ -17,10 +17,6 @@ Aqui listaremos alguns dos principais pacotes a serem utilizados durante as prá
 <div align="justify">
 O <a href="https://www.tidyverse.org">Tidyverse</a> é uma coleção de pacotes do R elaborados para análises em data science, e que possuem uma filosofia de design similar (em termos de estrutura de dados e das funções).:
 <br><br>
-<center>
-<img src="https://raw.githubusercontent.com/desirrepetters/GENE7010-dataviz/master/userguide/content/pt-br/2022/download/img/R_RStudio/R_RStudio_1.png" alt="Página principal do projeto R com opção download R em destaque" align="center">
-</center>
-<br><br>
 Os pacotes incluídos no Tidyverse são:
 <br><br>
 </div>
@@ -33,24 +29,30 @@ Os pacotes incluídos no Tidyverse são:
     <td><center>
 	<img src="https://d33wubrfki0l68.cloudfront.net/2c6239d311be6d037c251c71c3902792f8c4ddd2/12f67/css/images/hex/ggplot2.png" alt="Ícone ggplot2" align="center" heigth="250">
 	</center></td>
-	<td>ggplot2 é um sistema para criação de gráficos baseado em "The Grammar of Graphics". Você fornece o conjunto de dados, informa como mapear as variáveis à elementos estéticos e outros detalhes para que o ggplot2 produza o gráfico para você. Saiba mais sobre o ggplot <a href="https://ggplot2.tidyverse.org">aqui.</a></td>
+	<td><center>ggplot2 é um sistema para criação de gráficos baseado em "The Grammar of Graphics". Você fornece o conjunto de dados, informa como mapear as variáveis à elementos estéticos e outros detalhes para que o ggplot2 produza o gráfico para você. Saiba mais sobre o ggplot <a href="https://ggplot2.tidyverse.org">aqui</a></center></td>
   </tr> 
   <tr>
     <td><center>
 	<img src="https://d33wubrfki0l68.cloudfront.net/621a9c8c5d7b47c4b6d72e8f01f28d14310e8370/193fc/css/images/hex/dplyr.png" alt="Ícone dplyr" align="center" heigth="250">
 	</center></td>
-    <td>dplyr fornece uma "gramática" para manipulação de dados, fornecendo um conjunto de verbos para resolver os principais problemas e realizar as principais operações para manipular diferentes conuntos de dados. Saiba mais sobre o dplyr aqui <a href="https://dplyr.tidyverse.org/">aqui</a></td>
+    <td><center>dplyr fornece uma "gramática" para manipulação de dados, fornecendo um conjunto de verbos para resolver os principais problemas e realizar as principais operações para manipular diferentes conuntos de dados. Saiba mais sobre o dplyr <a href="https://dplyr.tidyverse.org/">aqui</a></center></td>
   <tr>
-    <td>Gblocks</td>
-    <td>Talavera G, Castresana J, 2007. Improvement of phylogenies after removing divergent and ambiguously aligned blocks from protein sequence alignments. <b>Systematic Biology</b> 56, 564-577. DOI: <a href="https://doi.org/10.1080/10635150701472164">10.1080/10635150701472164</a></td>
+    <td><center>
+	<img src="https://d33wubrfki0l68.cloudfront.net/476fa4025501dcec05be08248b32d390dd2337d5/574c6/css/images/hex/tidyr.png" alt="Ícone tidyr" align="center" heigth="250">
+	</center></td>
+    <td>tidyr fornece um conjunto de funções para obter dados no formato tidy, ou seja, dados num formato consistense: de forma resumida, cada variável corresponde a uma coluna, e cada linha corresponde a uma observação. Saiba mais sobre o tidyr <a href="https://tidyr.tidyverse.org/">aqui</a></td>
   </tr>
   <tr>
-    <td>IQ-Tree</td>
-    <td>Nguyen LT, Schmidt HA, von Haeseler A, Minh BQ, 2015. IQ-TREE: a fast and effective stochastic algorithm for estimating maximum-likelihood phylogenies. <b>Molecular Biology and Evolution</b> 32, 268-274. DOI: <a href="https://doi.org/10.1093/molbev/msu300">10.1093/molbev/msu300</a></td>
+    <td><center>
+	<img src="https://d33wubrfki0l68.cloudfront.net/c1c91484f898fe9d7d90a570900f1d5cd703fe2e/d7df4/css/images/hex/readr.png" alt="Ícone readr" align="center" heigth="250">
+	</center></td>
+    <td>readr fornece uma maneira rápida de ler conjuntos de dados e arquivos dispostos de forma "retangular" (como arquivos delimitados por vírgulas e tabulações, csv e tsv, respectivamente). readr está organizado para interpretar e realizar a leitura de vários tipos de arquivos comumente encontrados, e produz mensagens de erro informativas quando há falhas na leitura de arquivos com estruturas diferentes do esperado. Saiba mais sobre o readr <a href="https://readr.tidyverse.org/">aqui</a></td>
   </tr>
   <tr>
-    <td>MrBayes</td>
-    <td>Ronquist F, Teslenko M, van der Mark P, Ayres DL, Darling A, Höhna S, Larget B, Liu L, Suchard MA, Huelsenbeck JP, 2012. MrBayes 3.2: efficient Bayesian phylogenetic inference and model choice across a large model space. <b>Systematic Biology</b> 61, 539-542. DOI: <a href="https://doi.org/10.1093/sysbio/sys029"> 10.1093/sysbio/sys029</a></td>
+    <td><center>
+	<img src="https://d33wubrfki0l68.cloudfront.net/2d0701b616efa7435cd5a94e703baa595a4f9ed0/d41b9/css/images/hex/purrr.png" alt="Ícone purrr" align="center" heigth="250">
+	</center></td>
+    <td>purrr melhora o toolkit de programação funcional do R, fornecendo diversas ferramentas para trabalhar com funções de vetores, permitindo a substituição de "for loops" com linhas de código mais simples e expressivas. Saiba mais sobre o purrr <a href="https://purrr.tidyverse.org/">aqui</a></td>
   </tr>
   <tr>
     <td>MACSE</td>
