@@ -15,7 +15,7 @@ Aqui listaremos alguns dos principais pacotes a serem utilizados durante as prá
 ## Tidyverse
 
 <div align="justify">
-O <a href="https://www.tidyverse.org">Tidyverse</a> é uma coleção de pacotes do R elaborados para análises em data science, e que possuem uma filosofia de design similar (em termos de estrutura de dados e das funções).:
+O <a href="https://www.tidyverse.org">Tidyverse</a> é uma coleção de pacotes do R elaborados para análises em data science, e que possuem uma filosofia de design similar (em termos de estrutura de dados e das funções).
 <br><br>
 Os pacotes incluídos no Tidyverse são:
 <br><br>
@@ -23,45 +23,55 @@ Os pacotes incluídos no Tidyverse são:
 
 <table>
   <tr>
-    <th><strong>Pacote</th></strong></th>
-	<th><strong>Descrição</strong></th>
+    <th><strong><center>Pacote</center></strong></th>
+	<th><strong><center>Descrição</center></strong></th>
   <tr>
     <td><center>
 	<img src="https://d33wubrfki0l68.cloudfront.net/2c6239d311be6d037c251c71c3902792f8c4ddd2/12f67/css/images/hex/ggplot2.png" alt="Ícone ggplot2" align="center" heigth="250">
 	</center></td>
-	<td><center>ggplot2 é um sistema para criação de gráficos baseado em "The Grammar of Graphics". Você fornece o conjunto de dados, informa como mapear as variáveis à elementos estéticos e outros detalhes para que o ggplot2 produza o gráfico para você. Saiba mais sobre o ggplot <a href="https://ggplot2.tidyverse.org">aqui</a></center></td>
+	<td><center>ggplot2 é um sistema para criação de gráficos baseado em "The Grammar of Graphics". Você fornece o conjunto de dados, informa como mapear as variáveis à elementos estéticos e outros detalhes para que o ggplot2 produza o gráfico para você. Saiba mais sobre o ggplot <a href="https://ggplot2.tidyverse.org">aqui</a>.</center></td>
   </tr> 
   <tr>
     <td><center>
 	<img src="https://d33wubrfki0l68.cloudfront.net/621a9c8c5d7b47c4b6d72e8f01f28d14310e8370/193fc/css/images/hex/dplyr.png" alt="Ícone dplyr" align="center" heigth="250">
 	</center></td>
-    <td><center>dplyr fornece uma "gramática" para manipulação de dados, fornecendo um conjunto de verbos para resolver os principais problemas e realizar as principais operações para manipular diferentes conuntos de dados. Saiba mais sobre o dplyr <a href="https://dplyr.tidyverse.org/">aqui</a></center></td>
+    <td><center>dplyr fornece uma "gramática" para manipulação de dados, fornecendo um conjunto de verbos para resolver os principais problemas e realizar as principais operações para manipular diferentes conuntos de dados. Saiba mais sobre o dplyr <a href="https://dplyr.tidyverse.org/">aqui</a>.</center></td>
   <tr>
     <td><center>
 	<img src="https://d33wubrfki0l68.cloudfront.net/476fa4025501dcec05be08248b32d390dd2337d5/574c6/css/images/hex/tidyr.png" alt="Ícone tidyr" align="center" heigth="250">
 	</center></td>
-    <td>tidyr fornece um conjunto de funções para obter dados no formato tidy, ou seja, dados num formato consistense: de forma resumida, cada variável corresponde a uma coluna, e cada linha corresponde a uma observação. Saiba mais sobre o tidyr <a href="https://tidyr.tidyverse.org/">aqui</a></td>
+    <td>tidyr fornece um conjunto de funções para obter dados no formato tidy, ou seja, dados num formato consistente: de forma resumida, cada variável corresponde a uma coluna, e cada linha corresponde a uma observação. Saiba mais sobre o tidyr <a href="https://tidyr.tidyverse.org/">aqui</a>.</td>
   </tr>
   <tr>
     <td><center>
 	<img src="https://d33wubrfki0l68.cloudfront.net/c1c91484f898fe9d7d90a570900f1d5cd703fe2e/d7df4/css/images/hex/readr.png" alt="Ícone readr" align="center" heigth="250">
 	</center></td>
-    <td>readr fornece uma maneira rápida de ler conjuntos de dados e arquivos dispostos de forma "retangular" (como arquivos delimitados por vírgulas e tabulações, csv e tsv, respectivamente). readr está organizado para interpretar e realizar a leitura de vários tipos de arquivos comumente encontrados, e produz mensagens de erro informativas quando há falhas na leitura de arquivos com estruturas diferentes do esperado. Saiba mais sobre o readr <a href="https://readr.tidyverse.org/">aqui</a></td>
+    <td>readr fornece uma maneira rápida de ler conjuntos de dados e arquivos dispostos de forma "retangular" (como arquivos delimitados por vírgulas e tabulações, csv e tsv, respectivamente). readr está organizado para interpretar e realizar a leitura de vários tipos de arquivos comumente encontrados, e produz mensagens de erro informativas quando há falhas na leitura de arquivos com estruturas diferentes do esperado. Saiba mais sobre o readr <a href="https://readr.tidyverse.org/">aqui</a>.</td>
   </tr>
   <tr>
     <td><center>
 	<img src="https://d33wubrfki0l68.cloudfront.net/2d0701b616efa7435cd5a94e703baa595a4f9ed0/d41b9/css/images/hex/purrr.png" alt="Ícone purrr" align="center" heigth="250">
 	</center></td>
-    <td>purrr melhora o toolkit de programação funcional do R, fornecendo diversas ferramentas para trabalhar com funções de vetores, permitindo a substituição de "for loops" com linhas de código mais simples e expressivas. Saiba mais sobre o purrr <a href="https://purrr.tidyverse.org/">aqui</a></td>
+    <td>purrr melhora o toolkit de programação funcional do R, fornecendo diversas ferramentas para trabalhar com funções e vetores, permitindo a substituição de "for loops" por linhas de código mais simples e expressivas. Saiba mais sobre o purrr <a href="https://purrr.tidyverse.org/">aqui</a>.</td>
   </tr>
   <tr>
-    <td>MACSE</td>
-    <td>Ranwez V, Douzery EJP, Cambon C, Chantret N, Delsuc F, 2018. MACSE v2: Toolkit for the alignment of coding sequences accounting for frameshifts and stop codons. <b>Molecular Biology and Evolution</b> 35, 2582-2584. DOI: <a href="https://doi.org/10.1093/molbev/msy159">10.1093/molbev/msy159</a></td>
+    <td><center>
+	<img src="https://d33wubrfki0l68.cloudfront.net/c477d7eb7fdf2c3d75637cfe19ff4a4d0a107bcf/017d0/css/images/hex/tibble.png" alt="Ícone tibble" align="center" heigth="250">
+	</center></td>
+    <td>tibble é uma versão "repaginada" da data.frame tradicional, e que forçam você a lidar com problemas já no início do projeto, resultando em um código mais conciso e limpo. Por exemplo, tibbles não alteram nome e tipo de variáveis, não adicionam nomes às linhas e também apontam erros quando variáveis não existem. Saiba mais sobre o tibble <a href="https://tibble.tidyverse.org">aqui</a></td>
   </tr>
   <tr>
-    <td>trimAL</td>
-    <td>Capella-Gutierrez S, Silla-Martinez JM, Gabaldon T, 2009. trimAl: a tool for automated alignment trimming in large-scale phylogenetic analyses. <b>Bioinformatics</b> 25, 1972-1973. DOI: <a href="https://doi.org/10.1093/bioinformatics/btp348">10.1093/bioinformatics/btp348</a></td>
-  </tr>    
+    <td><center>
+	<img src="https://d33wubrfki0l68.cloudfront.net/45fd04ad9cdb2159fea08d07dbc11e742d68e4e3/df327/css/images/hex/stringr.png" alt="Ícone stringr" align="center" heigth="250">
+	</center></td>
+    <td>stringr fornece um conjunto de funções para trabalhar com strings de forma mais simplificada, implementando os procedimentos mais comuns de manipulação de strings. Saiba mais sobre o stringr <a href="https://stringr.tidyverse.org/">aqui</a></td>
+  </tr>
+  <tr>
+    <td><center>
+	<img src="https://d33wubrfki0l68.cloudfront.net/45fd04ad9cdb2159fea08d07dbc11e742d68e4e3/df327/css/images/hex/forcats.png" alt="Ícone forcats" align="center" heigth="250">
+	</center></td>
+    <td>forcats fornece um conjunto de ferramentas que resolvem problemas comuns ao trabalhar com fatores, que são utilizados pelo R para manipulação de variáveis categóricas e/ou variáveis que possuem um conjunto fixo e conhecido de valores. Saiba mais sobre o forcats <a href="https://forcats.tidyverse.org/">aqui</a></td>
+  </tr>   
 </table> 
 
 <div align="justify">
