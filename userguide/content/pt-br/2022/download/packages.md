@@ -68,21 +68,36 @@ Os pacotes incluídos no Tidyverse são:
   </tr>
   <tr>
     <td><center>
-	<img src="https://d33wubrfki0l68.cloudfront.net/45fd04ad9cdb2159fea08d07dbc11e742d68e4e3/df327/css/images/hex/forcats.png" alt="Ícone forcats" align="center" heigth="250">
+	<img src="https://d33wubrfki0l68.cloudfront.net/412a6f14518ab633a94221dda7e16cf22e43a763/91620/css/images/hex/forcats.png" alt="Ícone forcats" align="center" heigth="250">
 	</center></td>
     <td>forcats fornece um conjunto de ferramentas que resolvem problemas comuns ao trabalhar com fatores, que são utilizados pelo R para manipulação de variáveis categóricas e/ou variáveis que possuem um conjunto fixo e conhecido de valores. Saiba mais sobre o forcats <a href="https://forcats.tidyverse.org/">aqui</a></td>
   </tr>   
 </table> 
+<br><br>
+<div align="justify">
+Para instalar o tidyverse, utilize o seguinte comando no R:
+</div>
+
+```
+install.packages("tidyverse")
+```
+
+## Datasets
 
 <div align="justify">
-
-
-<center>
-<img src="https://raw.githubusercontent.com/desirrepetters/GENE7010-dataviz/master/userguide/content/pt-br/2022/download/img/R_RStudio/R_RStudio_2.png" alt="Página de escolha dos espelhos de R" align="center">
-</center>
+Ao estudar e aprender novas funções e testar implementação de scripts e geração de gráficos, muitas vezes é interessante realizar testes com conjuntos de dados já conhecidos. Ao utilizar conjuntos de dados que já estão caracterizados e cujo comportamento já é conhecido, torna-se mais fácil resolver problemas e também implementar melhoria nos códigos, e entender como elaborar diferentes tipos de gráficos. Por padrão, alguns pacotes do R ou do tidyverse possuem alguns conjuntos de dados que podem ser utilizados (por exemplo, os conjuntos "Iris", "cars", "mtcars", "ToothGrowth" do pacote "datasets" ou os conjuntos "diamonds" e "mpg" do ggplot2). Além destes conjuntos, existem outros que podem ser instalados à parte e são bastante úteis, como <a href="https://allisonhorst.github.io/palmerpenguins/">palmerpenguins </a> (diferentes medidas corporais de pinguins de três ilhas do arquipélago de Palmer, na Antártica) e <a href="https://www.rdocumentation.org/packages/mlbench/versions/2.1-3">mlbench</a> (vários conjuntos de dados utilizados para padronização de métodos de aprendizado de máquina).
 <br><br>
-Em seguida, escolha a opção correspondente ao seu sistema operacional. Neste exemplo, faremos a instalação em Windows. 
-<br><br>
+Para instalar os pacotes palmerpenguins e mlbench utilize o seguinte comando no R:
+</div>
+
+```
+install.packages("palmerpenguins")
+
+install.packages("mlbench")
+
+```
+
+<div align="justify">
 <center>
 <img src="https://raw.githubusercontent.com/desirrepetters/GENE7010-dataviz/master/userguide/content/pt-br/2022/download/img/R_RStudio/R_RStudio_3.png" alt="Escolha de sistema operacional com destaque para Windows" align="center">
 </center>
