@@ -27,18 +27,19 @@ Os pacotes incluídos no Tidyverse são:
 
 <table>
   <tr>
-    <th colspan="2"><strong>Pacote</th></strong></th>
+    <th><strong>Pacote</th></strong></th>
 	<th><strong>Descrição</strong></th>
   <tr>
     <td><center>
 	<img src="https://d33wubrfki0l68.cloudfront.net/2c6239d311be6d037c251c71c3902792f8c4ddd2/12f67/css/images/hex/ggplot2.png" alt="Ícone ggplot2" align="center" heigth="250">
 	</center></td>
-	<td>ggplot2</td>
-    <td>ggplot2 é um sistema para criação de gráficos baseado em "The Grammar of Graphics". Você fornece o conjunto de dados, informa como mapear as variáveis à elementos estéticos e outros detalhes para que o ggplot2 produza o gráfico para você. Saiba mais sobre o ggplot <a href="https://ggplot2.tidyverse.org">aqui.</a></td>
+	<td>ggplot2 é um sistema para criação de gráficos baseado em "The Grammar of Graphics". Você fornece o conjunto de dados, informa como mapear as variáveis à elementos estéticos e outros detalhes para que o ggplot2 produza o gráfico para você. Saiba mais sobre o ggplot <a href="https://ggplot2.tidyverse.org">aqui.</a></td>
   </tr> 
   <tr>
-    <td>PartitionFinder2</td>
-    <td>Lanfear R, Frandsen PB, Wright AM, Senfeld T, Calcott B, 2017. PartitionFinder 2: new methods for selecting partitioned models of evolution for molecular and morphological phylogenetic analyses. <b>Molecular Biology and Evolution</b> 34, 772-773. DOI: <a href="https://doi.org/10.1093/molbev/msw260">10.1093/molbev/msw260</a></td>
+    <td><center>
+	<img src="https://d33wubrfki0l68.cloudfront.net/621a9c8c5d7b47c4b6d72e8f01f28d14310e8370/193fc/css/images/hex/dplyr.png" alt="Ícone dplyr" align="center" heigth="250">
+	</center></td>
+    <td>dplyr fornece uma "gramática" para manipulação de dados, fornecendo um conjunto de verbos para resolver os principais problemas e realizar as principais operações para manipular diferentes conuntos de dados. Saiba mais sobre o dplyr aqui <a href="https://dplyr.tidyverse.org/">aqui</a></td>
   <tr>
     <td>Gblocks</td>
     <td>Talavera G, Castresana J, 2007. Improvement of phylogenies after removing divergent and ambiguously aligned blocks from protein sequence alignments. <b>Systematic Biology</b> 56, 564-577. DOI: <a href="https://doi.org/10.1080/10635150701472164">10.1080/10635150701472164</a></td>
