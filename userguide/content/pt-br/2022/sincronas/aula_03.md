@@ -35,5 +35,5 @@ Clique <a href="https://photos.app.goo.gl/">aqui</a> para fazer o download do v�
 
 <h2>Scripts</h2>
 <br>
-Clique <a href="https://github.com/desirrepetters/GENE7010-dataviz/raw/master/userguide/content/pt-br/2022/sincronas/scripts/aula_03.zip">aqui</a> para o arquivo compactado com o arquivo Markdown (.Rmd), o arquivo de saída HTML (.html, após knit), e arquivos de imagem gerados pelo código!
+"Visualizando quantidades" - Clique <a href="https://github.com/desirrepetters/GENE7010-dataviz/raw/master/userguide/content/pt-br/2022/sincronas/scripts/aula_03.zip">aqui</a> para o arquivo compactado com o arquivo Markdown (.Rmd), o arquivo de saída HTML (.html, após knit), e arquivos de imagem gerados pelo código!
 </div>
