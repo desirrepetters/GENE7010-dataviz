@@ -3,7 +3,7 @@ title: "Aula 04 - Visualizando distribuições"
 linkTitle: "Aula 04 - Visualizando distribuições"
 weight: 4
 description: >
-  Encontro do dia 03 de novembro com  gráficos para visualização de distribuições
+  Encontro do dia 10 de novembro com gráficos para visualização de distribuições
 ---
 
 <br>
